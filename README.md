@@ -1,4 +1,4 @@
-# Basic-Crypto-Purchase-Telegram-bot
+# Telegram Crypto Bot
 
 ## Overview
 
@@ -30,7 +30,7 @@ The Telegram Crypto Bot was developed to address the need for a unified platform
 3. **Subscription Management**: Offers an easy way to check subscription statuses and manage related transactions.
 4. **Broadcast Messaging**: Efficiently communicates with multiple users for announcements or updates.
 
-## Installation
+## Installation and Setup
 
 To set up the Telegram Crypto Bot on your local machine, follow these steps:
 
